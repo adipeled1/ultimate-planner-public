@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# React / Node.js ignores
+node_modules/
+dist/
+build/
+.vite/
+.eslintcache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Project deployment details and data pipeline scripts not ready for public release
+DEPLOYMENT.md
+code/data-pipe/

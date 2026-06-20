@@ -1,2 +1,24 @@
-# ultimate-planner-public
-A CSP-based, client-server semester optimizer. Because spending 40 hours automating your schedule is better than spending 1 hour planning it manually.
+# Ultimate Planner 📅 🚀
+
+**The over-engineered solution to a simple problem.**
+
+Ultimate Planner is a full-stack application designed to generate the mathematically optimal semester schedule. Why use a pen and paper when you can use a constraint satisfaction algorithm running on a dedicated cloud backend?
+
+## 🧐 Why?
+As Software Engineering students, we face a choice:
+1. Spend 30 minutes manually arranging courses in Excel.
+2. Spend weeks building a scalable, serverless client-server architecture with an ETL data pipeline to do it for us.
+
+We chose option 2.
+
+## 🛠 Architecture
+This isn't just a script; it's a platform. The codebase is organized as follows:
+
+* **Frontend (`code/client/`):** A modern, interactive React web interface that allows users to select courses, view schedule permutations, and visualize their week.
+* **Backend (`code/server/`):** A FastAPI serverless application hosting the core optimization engine. It uses a custom algorithm to solve the scheduling Constraint Satisfaction Problem (CSP) while keeping the data secure.
+* **Data Pipeline (`code/data-pipe/` — Not Public Yet):** An automated Python ETL process that scrapes, parses, and sanitizes raw HTML course catalogs into structured JSON datasets consumed by the backend. It uses the Python library **Beautiful Soup** to extract and structure the data. *(Note: The data pipeline code is currently private and not included in this repository).*
+
+## ⚡ Features
+* **Conflict Detection:** Mathematically guarantees zero overlaps.
+* **Optimization Heuristics:** Doesn't just find *a* schedule; finds the *best* one based on your constraints.
+* **"Industry Standard" Structure:** Built with separation of concerns, modern frameworks, and serverless deployment in mind—because maintainability matters even for a semester project.

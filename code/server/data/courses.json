@@ -1,0 +1,720 @@
+[
+  {
+    "course_id": "61179",
+    "course_name": "מבוא לפיזיקה אקדמית להנדסת תכנה",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060210",
+        "teacher": "שי מנחם",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 950,
+            "end": 1070,
+            "location": "317 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61179",
+    "course_name": "מבוא לפיזיקה אקדמית להנדסת תכנה",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060210",
+        "teacher": "חמודי פאטמה",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 890,
+            "end": 1010,
+            "location": "310 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61180",
+    "course_name": "פיזיקה להנדסת תכנה ל'",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060210",
+        "teacher": "שי מנחם",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 510,
+            "end": 630,
+            "location": "302 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61180",
+    "course_name": "פיזיקה להנדסת תכנה ל'",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060210/1",
+        "teacher": "לוי עמית",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 630,
+            "end": 740,
+            "location": "302 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61181",
+    "course_name": "פיזיקה להנדסת תכנה",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060210/1",
+        "teacher": "שי מנחם",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 510,
+            "end": 630,
+            "location": "309 M"
+          }
+        ]
+      },
+      {
+        "group_id": "261070210/1",
+        "teacher": "שי מנחם",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 890,
+            "end": 1010,
+            "location": "309 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61181",
+    "course_name": "פיזיקה להנדסת תכנה",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060210/1",
+        "teacher": "לוי עמית",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 510,
+            "end": 630,
+            "location": "217 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060210/2",
+        "teacher": "לוי עמית",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 830,
+            "end": 950,
+            "location": "217 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060210/3",
+        "teacher": "לוי עמית",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 890,
+            "end": 1010,
+            "location": "316 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261070210/1",
+        "teacher": "שי מנחם",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 770,
+            "end": 890,
+            "location": "306 M מע'"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61761",
+    "course_name": "כריית נתונים ומערכות לומדות",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "וולקוביץ ולדימיר (זאב)",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 830,
+            "end": 1010,
+            "location": "702 L"
+          }
+        ]
+      },
+      {
+        "group_id": "261070310/1",
+        "teacher": "אברוס רנטה",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 830,
+            "end": 1010,
+            "location": "708 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61761",
+    "course_name": "כריית נתונים ומערכות לומדות",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "יהודה גור אריה",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 510,
+            "end": 630,
+            "location": "EM 307 מעב'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/2",
+        "teacher": "יהודה גור אריה",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 630,
+            "end": 740,
+            "location": "EM 307 מעב'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/3",
+        "teacher": "כהן ראובן",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 1010,
+            "end": 1130,
+            "location": "217 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261070310/1",
+        "teacher": "כהן ראובן",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 890,
+            "end": 1010,
+            "location": "217 M מע'"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61763",
+    "course_name": "תורת הקומפילציה",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060310",
+        "teacher": "למברג דן",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 510,
+            "end": 630,
+            "location": "317 M"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/1",
+        "teacher": "רווה אלנה",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 630,
+            "end": 740,
+            "location": "706 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61763",
+    "course_name": "תורת הקומפילציה",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "למברג דן",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 630,
+            "end": 690,
+            "location": "208 M"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/2",
+        "teacher": "רווה אלנה",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 770,
+            "end": 830,
+            "location": "706 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61773",
+    "course_name": "מבוא למחשוב ענן",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "לוי נטליה",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 510,
+            "end": 630,
+            "location": "702 L"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/2",
+        "teacher": "אונקלוס-שפיגל נעמי",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 510,
+            "end": 630,
+            "location": "202 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61773",
+    "course_name": "מבוא למחשוב ענן",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060310/2",
+        "teacher": "חסאוי טירן",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 690,
+            "end": 830,
+            "location": "217 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/3",
+        "teacher": "חסאוי טירן",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 630,
+            "end": 740,
+            "location": "306 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/4",
+        "teacher": "קון חן",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 630,
+            "end": 740,
+            "location": "102 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/5",
+        "teacher": "קון חן",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 770,
+            "end": 890,
+            "location": "102 M מע'"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61775",
+    "course_name": "מבוא לבינה מלאכותית",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060310",
+        "teacher": "יהודה גור אריה",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 690,
+            "end": 830,
+            "location": "704 L"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/1",
+        "teacher": "שולנר אביטל",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 510,
+            "end": 630,
+            "location": "707 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61775",
+    "course_name": "מבוא לבינה מלאכותית",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "שולנר אביטל",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 630,
+            "end": 690,
+            "location": "703 L"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/2",
+        "teacher": "יהודה גור אריה",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 630,
+            "end": 690,
+            "location": "101 EM"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/3",
+        "teacher": "יהודה גור אריה",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 770,
+            "end": 830,
+            "location": "101 EM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61776",
+    "course_name": "טכנולוגיות אינטרנט מתקדמות (WEB)",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "אונקלוס-שפיגל נעמי",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 570,
+            "end": 740,
+            "location": "203 EM"
+          }
+        ]
+      },
+      {
+        "group_id": "261070310/1",
+        "teacher": "קופפר מורן",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 830,
+            "end": 1010,
+            "location": "706 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61776",
+    "course_name": "טכנולוגיות אינטרנט מתקדמות (WEB)",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060310/1",
+        "teacher": "זלדנר איליה",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 630,
+            "end": 740,
+            "location": "102 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/2",
+        "teacher": "זלדנר איליה",
+        "time_slots": [
+          {
+            "day": "TUESDAY",
+            "start": 1010,
+            "end": 1130,
+            "location": "104 M מע' UNIX"
+          }
+        ]
+      },
+      {
+        "group_id": "261060310/3",
+        "teacher": "קופפר מורן",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 630,
+            "end": 740,
+            "location": "306 M מע'"
+          }
+        ]
+      },
+      {
+        "group_id": "261070310/1",
+        "teacher": "קופפר מורן",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 510,
+            "end": 630,
+            "location": "104 M מע' UNIX"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61832",
+    "course_name": "מבוא להסתברות וסטטיסטיקה",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261060330/1",
+        "teacher": "מוניץ בנימין",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 570,
+            "end": 740,
+            "location": "707 L"
+          }
+        ]
+      },
+      {
+        "group_id": "261070230",
+        "teacher": "יהלום אורלי",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 690,
+            "end": 890,
+            "location": "702 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61832",
+    "course_name": "מבוא להסתברות וסטטיסטיקה",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261060330/1",
+        "teacher": "מוניץ בנימין",
+        "time_slots": [
+          {
+            "day": "THURSDAY",
+            "start": 830,
+            "end": 950,
+            "location": "704 L"
+          }
+        ]
+      },
+      {
+        "group_id": "261060330/2",
+        "teacher": "סלוביטקר פלורינה",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 510,
+            "end": 630,
+            "location": "302 M"
+          }
+        ]
+      },
+      {
+        "group_id": "261060330/3",
+        "teacher": "סלוביטקר פלורינה",
+        "time_slots": [
+          {
+            "day": "MONDAY",
+            "start": 630,
+            "end": 740,
+            "location": "310 M"
+          }
+        ]
+      },
+      {
+        "group_id": "261070330/1",
+        "teacher": "יהלום אורלי",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 890,
+            "end": 1010,
+            "location": "702 L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61834",
+    "course_name": "מסדי נתונים מבוזרים",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261070310/1",
+        "teacher": "גולני מתתיהו",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 570,
+            "end": 690,
+            "location": "308 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61834",
+    "course_name": "מסדי נתונים מבוזרים",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261070310/1",
+        "teacher": "גולני מתתיהו",
+        "time_slots": [
+          {
+            "day": "SUNDAY",
+            "start": 690,
+            "end": 740,
+            "location": "308 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61981",
+    "course_name": "הנדסת דרישות",
+    "component_type": "Lecture",
+    "options": [
+      {
+        "group_id": "261070310/1",
+        "teacher": "שולנר אביטל",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 510,
+            "end": 630,
+            "location": "303 M"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "61981",
+    "course_name": "הנדסת דרישות",
+    "component_type": "Practice",
+    "options": [
+      {
+        "group_id": "261070310/1",
+        "teacher": "שולנר אביטל",
+        "time_slots": [
+          {
+            "day": "WEDNESDAY",
+            "start": 630,
+            "end": 690,
+            "location": "303 M"
+          }
+        ]
+      }
+    ]
+  }
+]
