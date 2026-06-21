@@ -22,3 +22,7 @@ This isn't just a script; it's a platform. The codebase is organized as follows:
 * **Conflict Detection:** Mathematically guarantees zero overlaps.
 * **Optimization Heuristics:** Doesn't just find *a* schedule; finds the *best* one based on your constraints.
 * **"Industry Standard" Structure:** Built with separation of concerns, modern frameworks, and serverless deployment in mind—because maintainability matters even for a semester project.
+
+## 🌐 Live Version & Hosting
+* **Upcoming Release:** In September, the planner will be officially hosted and populated with the courses of the new semester.
+* **Announcements:** The direct link to the application will be posted here and shared on LinkedIn once it is live.
