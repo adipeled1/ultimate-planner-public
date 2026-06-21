@@ -26,3 +26,6 @@ This isn't just a script; it's a platform. The codebase is organized as follows:
 ## 🌐 Live Version & Hosting
 * **Upcoming Release:** In September, the planner will be officially hosted and populated with the courses of the new semester.
 * **Announcements:** The direct link to the application will be posted here and shared on LinkedIn once it is live.
+
+## 🌍 Customization for Other Universities and Colleges
+Ultimate Planner is a generic tool. Although it is preloaded with Braude's Software Engineering courses, any student can clone this repository, replace `courses.json` under `server/data/` with their own, and use it for their university or college.
