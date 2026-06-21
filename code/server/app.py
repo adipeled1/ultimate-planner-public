@@ -15,7 +15,9 @@ app = FastAPI()
 IS_VERCEL = os.environ.get("VERCEL") == "1"
 
 if IS_VERCEL:
-    FRONTEND_URL = os.environ.get("FRONTEND_URL", "https://ultimate-planner-web.vercel.app")
+    FRONTEND_URL = os.environ.get("FRONTEND_URL")
+    if not FRONTEND_URL:
+        raise RuntimeError("FRONTEND_URL environment variable is not set!")
     allowed_origins = [FRONTEND_URL]
 else:
     allowed_origins = [
